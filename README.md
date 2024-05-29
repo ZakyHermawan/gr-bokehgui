@@ -37,7 +37,6 @@ If you're running Linux, then always remember to do the following command after 
 $ sudo ldconfig
 ```
 
-
 ## Working with the module
 The complete tutorial for the module is available [here](http://kartikpatel.in/GSoC2017/tutorial/). The tutorial covers setting up guide, using sinks and widgets in GRC and guide to the placement of the elements.
 
